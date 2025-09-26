@@ -8,7 +8,7 @@ There will be a total of 6 Matlab examples.
 * [Introductory lecture on Pinns](Pinn_lecture)
 * [6 benchmark models, implemented in Matlab](matlab_examples)
     - [01: Partial equilibrium model](matlab_examples/01_partial_equilibrium_diffusion), explained in this [note here](matlab_examples/notes.pdf)
-    - [02: Partial equilibrium model with discrete choices](matlab_examples/02_partial_equilibrium_diffusion), explained in this [note here](matlab_examples/notes.pdf)
+    - [02: Partial equilibrium model with discrete choices](matlab_examples/02_partial_equilibrium_discrete), explained in this [note here](matlab_examples/notes.pdf)
     - [03: General equilibrium model; HJB plus Kolmogorov Forward](matlab_examples/03_general_equilibrium), explained in this [note here](https://benjaminmoll.com/wp-content/uploads/2020/02/HACT_Numerical_Appendix.pdf). Honestly Ben’s numerical appendix I sent above is perfect documentation of model 3. Read sections 1-3
 
 
