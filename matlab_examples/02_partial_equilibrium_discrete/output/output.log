@@ -156,3 +156,20 @@ VFI: 11    Remaining Gap: 8.27e-08
 Algorithm converged. Run-time of: 0.04 seconds.
 
 Plotting Figures...
+Running algorithm:
+VFI: 1    Remaining Gap: 1.04e+01
+VFI: 2    Remaining Gap: 1.46e+00
+VFI: 3    Remaining Gap: 6.58e-01
+VFI: 4    Remaining Gap: 7.22e-01
+VFI: 5    Remaining Gap: 3.89e-01
+VFI: 6    Remaining Gap: 1.46e-01
+VFI: 7    Remaining Gap: 1.69e-02
+VFI: 8    Remaining Gap: 8.19e-04
+VFI: 9    Remaining Gap: 3.68e-05
+VFI: 10    Remaining Gap: 1.74e-06
+VFI: 11    Remaining Gap: 8.27e-08
+
+Algorithm converged in 0.97 seconds.
+Exported plotting data to output/plot_data_model02.csv
+[Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more information, click
+<a href="matlab:opengl('problems')">here</a>.] 

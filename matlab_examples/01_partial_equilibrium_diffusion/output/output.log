@@ -729,3 +729,20 @@ Plotting Figures...
 
 Saving all policy function data to CSV file...
 Successfully saved data to HJB_data.csv
+Running algorithm:
+VFI: 1    Remaining Gap: 1.21e+01
+VFI: 2    Remaining Gap: 5.87e-01
+VFI: 3    Remaining Gap: 1.13e-01
+VFI: 4    Remaining Gap: 3.37e-02
+VFI: 5    Remaining Gap: 1.13e-02
+VFI: 6    Remaining Gap: 1.11e-03
+VFI: 7    Remaining Gap: 2.32e-05
+VFI: 8    Remaining Gap: 1.43e-07
+
+
+Algorithm converged. Run-time of: 0.38 seconds.
+
+Plotting Figures...
+
+Saving all policy function data to CSV file...
+Successfully saved data to HJB_data.csv
