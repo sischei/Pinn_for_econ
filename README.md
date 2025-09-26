@@ -16,7 +16,7 @@ There will be a total of 6 Matlab examples.
 
 * Replicate all the results from the Matlab benchmark with high accuracy with PINNs.
 * Carfully check what boundary conditions work fine (hard/soft boundary conditions).
-* Also look at [BSDE solver methods](https://arxiv.org/abs/2505.17032), and solve models also with this deep learing approach.
+* Also look at [BSDE solver methods](https://arxiv.org/abs/2505.17032), and solve models also with this deep learing approach. See also [this notebook](https://colab.research.google.com/github/janblechschmidt/PDEsByNNs/blob/main/DeepBSDE_Solver.ipynb).
 * Look at the [website of J. Han](https://users.flatironinstitute.org/~jhan/).
 * Keep in mind that we want to build up know-how so we can add dimensions later to those models; boundary conditinons should not suffer from the curse of dimensinality.
 * **IMPORTANT: we are interested accurate policies, that is, the slope of the function of the problems.** 
